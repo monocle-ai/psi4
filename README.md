@@ -116,3 +116,4 @@ F. A. Evangelista, J. M. Turney, T. D. Crawford, and C. D. Sherrill,
 "Psi4 1.1: An Open-Source Electronic Structure Program
 Emphasizing Automation, Advanced Libraries, and Interoperability",
 J. Chem. Theory Comput. 13(7) 3185&ndash;3197 (2017).
+
